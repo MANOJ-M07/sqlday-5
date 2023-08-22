@@ -1,0 +1,8 @@
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\bin\Debug\ConAppAdoReader.exe.config
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\bin\Debug\ConAppAdoReader.exe
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\bin\Debug\ConAppAdoReader.pdb
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\obj\Debug\ConAppAdoReader.csproj.AssemblyReference.cache
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\obj\Debug\ConAppAdoReader.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\obj\Debug\ConAppAdoReader.csproj.CoreCompileInputs.cache
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\obj\Debug\ConAppAdoReader.exe
+D:\simplilearn\Course-2\day-5\ConAppAdoReader\ConAppAdoReader\obj\Debug\ConAppAdoReader.pdb
